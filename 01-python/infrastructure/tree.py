@@ -1,3 +1,16 @@
 def draw_tree():
-    print("tree not found")
+    print("tree found")
+    print("----------------------")
+
+    print("     /  Bush  \ ")
+
+    print("----------------------")
+
+    print("     /  Shrub \ ")
+
+    print("----------------------")
+
+    print("     /    Bush2 \ ")
+
+    print("----------------------")
     return

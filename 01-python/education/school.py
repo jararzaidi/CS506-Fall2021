@@ -1,3 +1,15 @@
 def draw_school():
-    print("school not found")
+    print("school found")
+    print("----------------------")
+    print("     /  Kindergarden \ ")
+
+    print("----------------------")
+
+    print("     /  Middle School \ ")
+
+    print("----------------------")
+
+    print("     /  High School \ ")
+
+    print("----------------------")
     return

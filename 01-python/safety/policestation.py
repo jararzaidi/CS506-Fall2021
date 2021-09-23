@@ -1,3 +1,15 @@
 def draw_policestation():
-    print("police station not found")
+    print("police station found")
+    print("----------------------")
+    print("     /  Robbers \ ")
+
+    print("----------------------")
+
+    print("     / Thieves \ ")
+
+    print("----------------------")
+
+    print("     / Detectives \ ")
+
+    print("----------------------")
     return
