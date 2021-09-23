@@ -1,3 +1,16 @@
 def draw_mall():
-    print("mall not found")
+    print("mall found")
+    print("----------------------")
+
+    print("     / Food Court  \ ")
+
+    print("----------------------")
+
+    print("     /  Forever 21 \ ")
+
+    print("----------------------")
+
+    print("     /    American Eagle  \ ")
+
+    print("----------------------")
     return

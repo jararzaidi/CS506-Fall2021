@@ -1,3 +1,16 @@
 def draw_road():
-    print("road not found")
+    print("road found")
+    print("----------------------")
+
+    print("     /  Cement 1 \ ")
+
+    print("----------------------")
+
+    print("     /  Cement 2 \ ")
+
+    print("----------------------")
+
+    print("     /  Cement 3 \ ")
+
+    print("----------------------")
     return
